@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Razor">
+
+  <PropertyGroup>
+<!--    <TargetFramework>netcoreapp3.0</TargetFramework>-->
+    <TargetFramework>netstandard2.0</TargetFramework>
+<!--    <AddRazorSupportForMvc>true</AddRazorSupportForMvc>-->
+    <RootNamespace>RIDER_33129_2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+<!--    <FrameworkReference Include="Microsoft.AspNetCore.App" />-->
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor" Version="2.2.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <_ContentIncludedByDefault Remove="Areas\MyFeature\Pages\Page1.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Areas" />
+  </ItemGroup>
+
+
+</Project>

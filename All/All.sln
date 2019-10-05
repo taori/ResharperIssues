@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29230.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSRP-476239", "RSRP-476239\RSRP-476239.csproj", "{E2F303A8-EB49-42D6-BC5E-507E0B88D04E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIDER-33129-1", "RIDER-33129-1\RIDER-33129-1.csproj", "{0D15DD81-6820-4AA9-8AC6-48AF16701591}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RIDER-33129-2", "RIDER-33129-2\RIDER-33129-2.csproj", "{1C8BD9B0-9CC7-47A9-B864-AA72DAB17EE4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{E2F303A8-EB49-42D6-BC5E-507E0B88D04E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2F303A8-EB49-42D6-BC5E-507E0B88D04E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2F303A8-EB49-42D6-BC5E-507E0B88D04E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D15DD81-6820-4AA9-8AC6-48AF16701591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D15DD81-6820-4AA9-8AC6-48AF16701591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D15DD81-6820-4AA9-8AC6-48AF16701591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D15DD81-6820-4AA9-8AC6-48AF16701591}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C8BD9B0-9CC7-47A9-B864-AA72DAB17EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C8BD9B0-9CC7-47A9-B864-AA72DAB17EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C8BD9B0-9CC7-47A9-B864-AA72DAB17EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C8BD9B0-9CC7-47A9-B864-AA72DAB17EE4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
